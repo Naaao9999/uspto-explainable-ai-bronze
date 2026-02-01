@@ -1,4 +1,5 @@
 # USPTO - Explainable AI for Patent Professionals（銅メダル）
+2024年7月にUSPTOコンペで初めてソロでのメダルを獲得した際のコードです。
 
 ## コンペ結果
 - **順位**: 571チーム中 67位  
@@ -7,10 +8,7 @@
 - **チーム**: Nao9999  
 - **認定証**: [Kaggle Certificate](https://www.kaggle.com/certification/competitions/nao9999/uspto-explainable-ai)
 
-## 概要
-本リポジトリは、Kaggleコンペティション「USPTO - Explainable AI for Patent Professionals」における銅メダル獲得時のコードです。
-
-コンペの目的：特許検索クエリを自動生成し、評価指標 AP@50 を最大化すること
+## コンペの目的：特許検索クエリを自動生成し、評価指標 AP@50 を最大化すること
 
 ## アプローチ概要
 このソリューションでは、焼きなまし法（Simulated Annealing）を用いて特許検索クエリを最適化しています。
